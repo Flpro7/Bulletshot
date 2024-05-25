@@ -29,7 +29,9 @@ Version 3.1
 - Bulletshot officially releases at github at version 3.1
 - Bulletshot updates at version 3.1 in itch.io https://flpro7.itch.io/bulletshot
 
-
+Version 3.2
+- New main menu icon during in-game at any gamemode
+- Bugfixes
 
 KP STUDIOS Brand
 KP STUDIOS is a brand created in august 20th, 2023 that is composed for 2 people:
@@ -40,3 +42,4 @@ Games from KP STUDIOS
 - The playground game (Not released)
 - El juego insano (Not released)
 - Bulletshot
+
