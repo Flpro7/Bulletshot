@@ -33,6 +33,14 @@ Version 3.2
 - New main menu icon during in-game at any gamemode
 - Bugfixes
 
+Version 3.3
+- Fixed button animations
+
+Version 3.4
+- Added credits
+- New logo to Bulletshot
+
+
 KP STUDIOS Brand
 KP STUDIOS is a brand created in august 20th, 2023 that is composed for 2 people:
 - Programmer (Flpro7)
